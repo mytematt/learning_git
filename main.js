@@ -20,6 +20,8 @@ document.addEventListener("DOMContentLoaded", function(){
 
 
 
+  
+
   //functions
 
 function genBallPosition(){
